@@ -8,8 +8,8 @@
       //Construtor
       public Aluno(String nome, int idade){
            aleatorio = new Random();
-           this.nome = nome;
-           this.idade = idade;
+           this.nome = nome; "italo"
+           this.idade = idade; "37"
            this.codigo_identificador = aleatorio.nextDouble();
       }
       //Métodos
